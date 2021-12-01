@@ -1,2 +1,11 @@
-# fuzzy_tt
-Fuzzy timetable to manage your interests
+Install pytest
+
+```
+pip install -U pytest
+```
+
+Run tests
+
+```
+python3 -m pytest
+```
